@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Домашная робота\FileSystem\bin\Debug\FileSystem.exe.config
+F:\ITStep\2 курс\C#\Домашная робота\FileSystem\bin\Debug\FileSystem.exe
+F:\ITStep\2 курс\C#\Домашная робота\FileSystem\bin\Debug\FileSystem.pdb
+F:\ITStep\2 курс\C#\Домашная робота\FileSystem\obj\Debug\FileSystem.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Домашная робота\FileSystem\obj\Debug\FileSystem.exe
+F:\ITStep\2 курс\C#\Домашная робота\FileSystem\obj\Debug\FileSystem.pdb
